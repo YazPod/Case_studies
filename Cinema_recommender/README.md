@@ -21,4 +21,4 @@ Language: Python
 Data Processing: Pandas (Chunking strategy), NumPy
 Machine Learning: Scikit-Learn (NearestNeighbors, CosineSimilarity, CountVectorizer).
 Visualization: Matplotlib, Seaborn
-App Interface: Streamlit.
+App Interface: Streamlit
